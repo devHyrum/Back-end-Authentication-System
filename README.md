@@ -12,7 +12,6 @@ Este repositorio contiene el backend para un sistema de autenticación. La API o
 - [Swagger API Documentation](#swagger-api-documentation)
 - [Estructura del Proyecto](#estructura-del-proyecto)
 - [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
 
 ## Instalación
 
@@ -107,7 +106,7 @@ npm run swagger-autogen
 Las contribuciones son bienvenidas. Para contribuir, por favor sigue estos pasos:
 
 1. Haz un fork del repositorio.
-2. Crea una nueva rama (git checkout -b feature-nueva-funcionalidad).
+2. Crea una nueva rama (git checkout -b             feature-nueva-funcionalidad).
 3. Realiza tus cambios.
 4. Haz un commit de tus cambios (git commit -am 'Añadir nueva 1. funcionalidad').
 5. Sube tus cambios (git push origin feature-nueva-funcionalidad).
